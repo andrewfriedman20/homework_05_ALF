@@ -44,8 +44,7 @@ $("#hour17 .description").val(localStorage.getItem("hour17"));
 function hourTracker() {
 
     var currentHour = moment().hour();
-
-    // Time block looper
+// Time block looper
     $(".time-block").each(function () {
         var blockHour = parseInt($(this).attr("id").split("hour")[1]);
         console.log( blockHour, currentHour)
