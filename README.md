@@ -19,8 +19,7 @@ GIVEN I am using a daily planner to create a schedule
 
 The following screenshot demonstrates the application functionality:
 
-![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/05-third-party-apis-homework-demo.gif)
-![The user clicks to select a timeslot, enters the event name and clicks the disk "save" button to the right.]()
+![The user clicks to select a timeslot, enters the event name and clicks the disk "save" button to the right.](https://github.com/andrewfriedman20/homework_05_ALF/blob/039fae0de428bcaccaffa4d039e31cd21b4e8da9/workdaycalendar.alf.jpg)
 
 ## bbb
 
