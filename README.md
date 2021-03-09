@@ -28,7 +28,7 @@ When they are happening right now, they'll be highlighted in red.
 And, if they've occurred in the past, they'll be in gray.
 ```
 
-The following screenshot demonstrates the application functionality:
+The following screenshot demonstrates the application functionality (both of the events shown happened earlier today):
 
 ![The user clicks to select a timeslot, enters the event name and clicks the disk "save" button to the right.](https://github.com/andrewfriedman20/homework_05_ALF/blob/039fae0de428bcaccaffa4d039e31cd21b4e8da9/workdaycalendar.alf.jpg)
 
