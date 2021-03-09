@@ -1,3 +1,5 @@
+// Andrew Friedman - Workday Calendar JS
+
 var currentDate = moment().format("MMMM Do, YYYY");
     console.log("CURRENT DATE: " + currentDate);
 var currentHour = moment().hours();
@@ -10,6 +12,8 @@ function setTimeBlockStyling () {
 }
 setTimeBlockStyling ();
 
+
+//save populated items to local storage
 function getLocalStorage(key) {
     let value = localStorage.getItem(key);
     if (value) {
